@@ -119,7 +119,7 @@
                    </a>
                 </div>
                 <div class="col-md-3 col-6 mb-4">
-                   <a href="">
+                   <a href="https://nuxtjs.org/">
                         <div class="card border-0 rounded shadow-sm">
                         <div class="card-body text-white text-center"><img src="https://maulayya.vercel.app/images/stacks/nuxt-js.png" alt="Nuxt.js" width="80" class="lazyLoad">
                             <hr>
@@ -130,7 +130,7 @@
                    </a>
                 </div>
                 <div class="col-md-3 col-6 mb-4">
-                  <a href="">
+                  <a href="https://nodejs.org/en/">
                         <div class="card border-0 rounded shadow-sm">
                         <div class="card-body text-white text-center"><img src="https://maulayya.vercel.app/images/stacks/node.png" alt="Node.js" width="80" class="lazyLoad">
                             <hr>
