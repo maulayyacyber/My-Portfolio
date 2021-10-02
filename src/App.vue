@@ -43,84 +43,102 @@
             <div class="row justify-content-center">
                 <div class="col-md-3 col-6 mb-4">
                     <div class="card border-0 rounded shadow-sm">
-                        <div class="card-body text-white text-center"><img alt="Vue.js" width="80" class="lazyLoad isLoaded" src="https://maulayya.vercel.app/images/stacks/vue.png">
+                       <a href="https://vuejs.org">
+                            <div class="card-body text-white text-center"><img alt="Vue.js" width="80" class="lazyLoad isLoaded" src="https://maulayya.vercel.app/images/stacks/vue.png">
                             <hr>
                             <h4><strong>Vue.js</strong></h4>
                         </div>
+                       </a>
                         <div class="card-footer text-center text-white"><i><strong>2 years</strong> of experience</i></div>
                     </div>
                 </div>
                 <div class="col-md-3 col-6 mb-4">
-                    <div class="card border-0 rounded shadow-sm">
+                   <a href="https://tailwindcss.com">
+                        <div class="card border-0 rounded shadow-sm">
                         <div class="card-body text-white text-center"><img alt="tailwind CSS" width="80" class="lazyLoad isLoaded" src="https://maulayya.vercel.app/images/stacks/tailwind.png">
                             <hr>
                             <h4><strong>tailwind CSS</strong></h4>
                         </div>
                         <div class="card-footer text-center text-white"><i><strong>6 month</strong> of experience</i></div>
                     </div>
+                   </a>
                 </div>
                 <div class="col-md-3 col-6 mb-4">
-                    <div class="card border-0 rounded shadow-sm">
+                   <a href="https://www.ruby-lang.org/id/">
+                        <div class="card border-0 rounded shadow-sm">
                         <div class="card-body text-white text-center"><img alt="Ruby" width="80" class="lazyLoad isLoaded" src="https://maulayya.vercel.app/images/stacks/ruby.png">
                             <hr>
                             <h4><strong>Ruby</strong></h4>
                         </div>
                         <div class="card-footer text-center text-white"><i><strong>1 years</strong> of experience</i></div>
                     </div>
+                   </a>
                 </div>
                 <div class="col-md-3 col-6 mb-4">
-                    <div class="card border-0 rounded shadow-sm">
+                 <a href="https://reactjs.org/">
+                        <div class="card border-0 rounded shadow-sm">
                         <div class="card-body text-white text-center"><img alt="React.js" width="80" class="lazyLoad isLoaded" src="https://maulayya.vercel.app/images/stacks/react-js.png">
                             <hr>
                             <h4><strong>React.js</strong></h4>
                         </div>
                         <div class="card-footer text-center text-white"><i><strong>2 month</strong> of experience</i></div>
                     </div>
+                 </a>
                 </div>
                 <div class="col-md-3 col-6 mb-4">
-                    <div class="card border-0 rounded shadow-sm">
+                   <a href="https://rubyonrails.org/">
+                        <div class="card border-0 rounded shadow-sm">
                         <div class="card-body text-white text-center"><img src="https://maulayya.vercel.app/images/stacks/rails.png" alt="Ruby on Rails" width="80" class="lazyLoad">
                             <hr>
                             <h4><strong>Ruby on Rails</strong></h4>
                         </div>
                         <div class="card-footer text-center text-white"><i><strong>1 years</strong> of experience</i></div>
                     </div>
+                   </a>
                 </div>
                 <div class="col-md-3 col-6 mb-4">
-                    <div class="card border-0 rounded shadow-sm">
+                  <a href="https://www.postgresql.org/">
+                        <div class="card border-0 rounded shadow-sm">
                         <div class="card-body text-white text-center"><img src="https://maulayya.vercel.app/images/stacks/postgre.png" alt="PostgreSQL" width="80" class="lazyLoad">
                             <hr>
                             <h4><strong>PostgreSQL</strong></h4>
                         </div>
                         <div class="card-footer text-center text-white"><i><strong>5 years</strong> of experience</i></div>
                     </div>
+                  </a>
                 </div>
                 <div class="col-md-3 col-6 mb-4">
-                    <div class="card border-0 rounded shadow-sm">
+                   <a href="https://www.php.net/">
+                        <div class="card border-0 rounded shadow-sm">
                         <div class="card-body text-white text-center"><img src="https://maulayya.vercel.app/images/stacks/php.png" alt="PHP" width="80" class="lazyLoad">
                             <hr>
                             <h4><strong>PHP</strong></h4>
                         </div>
                         <div class="card-footer text-center text-white"><i><strong>6 years</strong> of experience</i></div>
                     </div>
+                   </a>
                 </div>
                 <div class="col-md-3 col-6 mb-4">
-                    <div class="card border-0 rounded shadow-sm">
+                   <a href="">
+                        <div class="card border-0 rounded shadow-sm">
                         <div class="card-body text-white text-center"><img src="https://maulayya.vercel.app/images/stacks/nuxt-js.png" alt="Nuxt.js" width="80" class="lazyLoad">
                             <hr>
                             <h4><strong>Nuxt.js</strong></h4>
                         </div>
                         <div class="card-footer text-center text-white"><i><strong>1 years</strong> of experience</i></div>
                     </div>
+                   </a>
                 </div>
                 <div class="col-md-3 col-6 mb-4">
-                    <div class="card border-0 rounded shadow-sm">
+                  <a href="">
+                        <div class="card border-0 rounded shadow-sm">
                         <div class="card-body text-white text-center"><img src="https://maulayya.vercel.app/images/stacks/node.png" alt="Node.js" width="80" class="lazyLoad">
                             <hr>
                             <h4><strong>Node.js</strong></h4>
                         </div>
                         <div class="card-footer text-center text-white"><i><strong>1 years</strong> of experience</i></div>
                     </div>
+                  </a>
                 </div>
                 <div class="col-md-3 col-6 mb-4">
                     <div class="card border-0 rounded shadow-sm">
